@@ -1,0 +1,91 @@
+h1 {
+  text-align: center;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+#navlinks {
+  text-align: center;
+  box-sizing: border-box;
+  width: 100%;
+  border: 2px solid black
+}
+
+a {
+  padding:20px;
+  color: black;
+  text-decoration: none;
+}
+
+#body1 {
+  margin: auto;
+  width: 1000px;
+  padding:15px;
+}
+
+footer {
+
+  margin: auto;
+  width: 1000px;
+  padding:15px;
+}
+
+#body2 {
+  margin: auto;
+  width: 1000px;
+  padding:15px;
+}
+
+#menu {
+    margin: auto;
+    width: 1000px;
+    padding:15px;
+}
+
+#apps {
+  border: 2px solid black;
+  margin: 5px;
+  float: left;
+  width:500px;
+  padding: 5px
+}
+
+#soups {
+  border: 2px solid black;
+  margin: 5px;
+  padding:5px;
+  width: 400px;
+  float: left;
+}
+
+#sandwiches {
+  border: 2px solid black;
+  margin: 5px;
+  float: left;
+  width: 500px;
+  padding: 5px
+}
+
+#beansnrice {
+  border: 2px solid black;
+  margin: 5px;
+  padding:5px;
+  width: 400px;
+  float: left;
+}
+
+h3 {
+  border-bottom: 2px solid black;
+}
+
+#upcoming_events {
+  margin: auto;
+  width: 1000px;
+  padding:15px;
+}
+
+#widget {
+  margin: auto;
+  width: 1000px;
+  padding:15px;
+}
